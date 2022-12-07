@@ -7,11 +7,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rollup/pluginutils": "^5.0.2",
+    "autoprefixer": "^10.4.13",
+    "fp-ts": "^2.13.1",
+    "inferred-types": "^0.35.0",
+    "normalize.css": "^8.0.1",
+    "postcss-cli": "^10.0.0",
+    "postcss-mixins": "^9.0.4",
+    "rollup": "^2.77.0",
     "vue": "^3.2.41",
     "vue-router": "^4.1.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.2",
-    "vite": "^3.1.8"
+    "postcss": "^8.4.19",
+    "postcss-import": "^15.0.1",
+    "postcss-nesting": "^10.2.0",
+    "vite": "^3.1.8",
+    "vite-plugin-md": "^0.20.4",
+    "vite-plugin-md2vue": "^1.1.1"
   }
 }

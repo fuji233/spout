@@ -1,0 +1,27 @@
+.dropdown {
+    position: relative;
+  
+    &:hover .dropdown-list{
+      opacity: 1;
+      visibility: visible;
+    }
+}
+  
+.dropdown-list {
+    display: block;
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    top: 25px;
+    right: 0;
+    padding: 0 1em;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    transform: translateY(-4px);
+    transition: opacity .25s,visibility .25s,transform .25s;
+    background-color: var(--color-background);
+  
+    & li {
+      display: flex;
+    }
+}
