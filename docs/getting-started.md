@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
-slug: getting-started
 ---
+
+# Getting Started
 
 ## 导航
 
@@ -127,7 +128,7 @@ slug: getting-started
 
 **[中国色](http://zhongguose.com/)**
 &emsp;
-**[Palettable](https//www.palettable.io/)**
+**[Palettable](https://www.palettable.io/)**
 &emsp;
 **[ColorSpace](https://mycolor.space/)**
 &emsp;

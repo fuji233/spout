@@ -37,7 +37,7 @@ export default function Home(): JSX.Element {
         &emsp;
         <Link
           className="button button--secondary button--lg"
-          to="/projects/spout"
+          to="/projects/project-spout"
         >
           项目
         </Link>

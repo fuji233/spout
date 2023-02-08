@@ -28,8 +28,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -88,11 +88,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Getting Started',
+            docId: 'getting-started',
             position: 'right',
             label: '笔记',
           },
-          {to: '/projects/spout', label: '项目', position: 'right'},
+          {to: '/projects/project-spout', label: '项目', position: 'right'},
           {to: '/blog/hello-world', label: '博客', position: 'right'},
           {
             href: 'https://github.com/fuji233/spout',
@@ -118,11 +118,11 @@ const config = {
             items: [
               {
                 label: 'Spout',
-                to: '/projects/spout',
+                to: '/projects/project-spout',
               },
               {
                 label: '浮记',
-                to: '/projects/fee',
+                to: '/projects/project-fee',
               },
             ],
           },
