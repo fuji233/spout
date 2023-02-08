@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 48 48" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="TextBounds">
+<rect height="135.081" transform="matrix(1 0 0 1 -4.26174 -53.1956)" width="59.8375" x="0" y="0"/>
+</clipPath>
+</defs>
+<g id="图层-1" vectornator:layerName="图层 1">
+<path clip-path="url(#TextBounds)" d="M41.299 11.0164C41.893 11.0164 42.685 10.4224 42.388 9.43239C41.101 8.83839 39.517 9.03639 38.428 9.23439C35.854 9.72939 34.666 10.2244 32.191 11.1154C29.914 12.0064 26.35 14.0854 24.568 15.6694C22.489 17.5504 20.014 19.9264 18.232 22.7974C18.133 18.8374 18.529 15.1744 19.816 12.3034C19.816 11.9074 20.014 11.7094 20.212 11.3134C20.806 10.3234 21.796 9.53139 21.796 8.14539C21.202 7.35339 20.41 7.25439 19.717 7.25439C18.43 7.74939 17.737 8.54139 17.242 9.53139C16.747 10.4224 16.351 11.5114 15.856 12.4024C14.668 16.6594 14.371 20.9164 14.866 25.0744C15.559 31.8064 17.935 38.2414 20.212 44.6764L21.4 45.9634C21.994 46.5574 22.984 46.2604 23.281 45.3694C22.489 42.4984 21.499 39.8254 20.707 37.0534C19.915 34.3804 19.222 31.6084 18.925 28.6384C20.212 25.0744 22.489 22.0054 25.162 19.4314C27.835 16.8574 30.31 14.6794 33.181 13.4914C36.151 12.2044 38.329 11.6104 41.299 11.0164Z" fill="#57c3c2" opacity="1" stroke="none"/>
+</g>
+</svg>
