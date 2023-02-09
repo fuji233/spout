@@ -158,7 +158,7 @@ sidebar_position: 1
 &emsp;
 **[Freenom](https://www.freenom.com/zh/index.html)**
 
-### 其他
+### 其它
 
 **[wangEditor](https://www.wangeditor.com/)**
 
