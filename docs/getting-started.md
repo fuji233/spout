@@ -74,6 +74,10 @@ sidebar_position: 1
 &emsp;
 **[Prisma](https://www.prisma.io/)**
 &emsp;
+**[GraphQL](https://graphql.cn/)**
+&emsp;
+**[Apollo Docs](https://www.apollographql.com/docs/)**
+&emsp;
 **[MySQL](https://www.mysql.com/)**
 &emsp;
 **[PostgreSQL](https://www.postgre.org/)**
