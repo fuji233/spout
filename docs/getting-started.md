@@ -236,6 +236,10 @@ sidebar_position: 1
 > [How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL](https://vercel.com/guides/nextjs-prisma-postgres)  
 > [How to set up a free PostgreSQL database on Heroku](https://dev.to/prisma/how-to-setup-a-free-postgresql-database-on-heroku-1dc1)
 
+### React
+
+> [【React】useContext与useReducer结合实现状态管理](https://juejin.cn/post/6995105000523317278)
+
 ### NestJS
 
 > [学完这篇 Nest.js 实战，还没入门的来锤我！(长文预警)](https://juejin.cn/post/7032079740982788132)
